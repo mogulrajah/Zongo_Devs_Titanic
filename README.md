@@ -1,1 +1,1 @@
-# Zongo_Devs_Titanic
+This project explores the titanic dataset and builds a logistic regression model for predicting the Survival and non-survival rate of passengers on board the titanic ship during first but last  voyage.The model predicts Survivalbility based on certain factors which includes; Gender,passenger class,age etc.    
