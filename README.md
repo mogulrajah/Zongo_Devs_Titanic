@@ -1,1 +1,2 @@
 This project explores the titanic dataset and builds a logistic regression model for predicting the Survival and non-survival rate of passengers on board the titanic ship during first but last  voyage.The model predicts Survivalbility based on certain factors which includes; Gender,passenger class,age etc.    
+We view the data, try understanding it dynamics, read it in a suitable environment and execute an exploratory data analysis on the data to check the dimensions in the the various columns and rows.
